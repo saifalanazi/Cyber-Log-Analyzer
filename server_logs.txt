@@ -1,0 +1,5 @@
+Jan 10 12:00:01 server sshd: Failed password for admin from 10.0.0.5
+Jan 10 12:00:02 server sshd: Failed password for admin from 10.0.0.5
+Jan 10 12:00:03 server sshd: Failed password for admin from 10.0.0.5
+Jan 10 12:00:04 server sshd: Failed password for admin from 10.0.0.5
+Jan 10 12:05:00 server sshd: Accepted password for user from 192.168.1.1
